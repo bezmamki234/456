@@ -1,0 +1,17 @@
+/ (главная страница)
+├─ index.html
+├─ style.css
+├─ games/
+│   ├─ flappybird/
+│   │   ├─ index.html
+│   │   ├─ script.js
+│   │   └─ assets/
+│   └─ tetris/
+│       ├─ index.html
+│       ├─ main.js
+│       └─ assets/
+<h1>Мои онлайн игры</h1>
+<ul>
+  <li><a href="games/flappybird/index.html">Flappy Bird</a></li>
+  <li><a href="games/tetris/index.html">Tetris</a></li>
+</ul>
