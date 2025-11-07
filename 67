@@ -90,3 +90,6 @@ function fullscreen() {
 }
 <iframe src="games/flappybird/index.html" width="800" height="600"></iframe>
 <button onclick="fullscreen()">На весь экран</button>
+index.html
+ 456/
+   index.html
